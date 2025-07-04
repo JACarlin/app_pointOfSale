@@ -60,7 +60,7 @@ Para ejecutar este proyecto, la forma más sencilla es utilizando un IDE de Java
     git clone https://github.com/JACarlin/app_pointOfSale.git
     ```
 2.  **Abre el Proyecto en un IDE:**
-    * Abre tu IDE de Java preferido (se recomienda **Apache NetBeans**, ya que fue con el que probablemente se creó el proyecto).
+    * Abre tu IDE de Java preferido (se recomienda **Apache NetBeans**).
     * Selecciona `File > Open Project` y busca la carpeta que acabas de clonar. El IDE debería reconocerlo como un proyecto de Java.
 3.  **Ejecuta la Aplicación:**
     * Localiza la clase principal del proyecto, que es `ctjaapppuntodeventa.CTJAapppuntodeventa.java`.
